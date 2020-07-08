@@ -12,7 +12,7 @@ For applications built for use within your organization, Azure Active Directory 
 In cases where an application does not support SCIM, several partners have built gateways between the Azure AD SCIM client and target applications such as SAP, SQL, and LDAP. This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these integration options.  
 
 # Disclaimer
-<Legal text>
+{Input Legal text once available}
   
 # How-to add integrations to this list
 
@@ -38,14 +38,12 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 * Calendly
 
 ## IDM Works
-Company website: [IdentityForge solutions for Microsoft FIM](http://identityforge.com/index.php/solutions/iamsolutions/solutions-for-fim-2010)
 
 ## Description
 We Are Experts In Identity & Access Management and Data Center Management.
 
 ### Contact information
-* Company website: www.advania.se
-* Company contact: iam@advania.se
+* Company website: [IdentityForge solutions for Microsoft FIM](http://identityforge.com/index.php/solutions/iamsolutions/solutions-for-fim-2010)
 * Application catalog: 
 
 ### Applications supported
