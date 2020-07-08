@@ -9,7 +9,7 @@ For applications built for use within your organization, Azure Active Directory 
  For 3rd party applications commonly used by our customers, the Azure AD provides easy to onboard templates to integrate with the applications. Examples include Dropbox, Snowflake, and Workplace by Facebook. SCIM compliant applications can easily be onboared to the application gallery and deployed by customers using the steps defined [here](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
 
 **Partner-driven integrations:**
-In cases where an application does not support SCIM, several partners have built gateways between the Azure AD SCIM client and target applications such as SAP, SQL, and LDAP. This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these integration options.  
+In cases where an application does not support SCIM, several partners have built gateways between the Azure AD SCIM client and target applications such as SAP, SQL, and LDAP. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these integration options.**
 
 # Disclaimer
 {Input Legal text once available}
