@@ -1,8 +1,8 @@
 # Azure Active Directory Partner Driven Integrations
 
-Azure Active Directory supports provisioning to any application that a customer may have. There are three primary methods for integration.
+Azure Active Directory can provision users into any application that a customer may have. There are three primary integration paths:
 
-**Line-of-business applications (SCIM compliant):**
+**SCIM compliant line-of-business applications:**
 For applications built for use within your organization, Azure Active Directory provides a [SCIM](https://aka.ms/scimoverview) client that provisions users and groups.
 
 **3rd Party integrations / gallery applications:**
@@ -29,6 +29,7 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 ### Contact information
 * Company website: https://www.aquera.com/applications.html
 * Company contact: https://www.aquera.com/contact-us.html
+* Application catalog: 
 
 ### Applications supported
 3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
@@ -45,6 +46,7 @@ We Are Experts In Identity & Access Management and Data Center Management.
 ### Contact information
 * Company website: www.advania.se
 * Company contact: iam@advania.se
+* Application catalog: 
 
 ### Applications supported
 10 apps listed below for reference. Catalog contains 200+ 
@@ -60,9 +62,10 @@ OCG ...
 ### Contact information
 * Company website: http: //oxfordcomputergroup.com/ Jump
 * Information: info@oxfordcomputergroup.com
+* Application catalog: 
 
 ### Applications supported
-10 apps listed below for reference. Catalog contains 200+ 
+
 * Firebird 
 * Informix
 * Ingres 
