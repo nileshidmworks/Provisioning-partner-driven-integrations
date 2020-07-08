@@ -15,7 +15,7 @@ Azure Active Directory provides a SCIM client that can provision users and group
 
 # Partners
 ## Aquera
-
+The Aquera Identity Integration Platform as a Service closes the connectivity gaps for real-time identity governance and lifecycle management workflows. The platform offers SCIM gateway services for account provisioning and aggregation, orchestration services for user and password synchronization, and workflow services for the governance of disconnected applications.
 ### Description
 ### Contact information
 * Company website: www.advania.se
@@ -28,15 +28,19 @@ Azure Active Directory provides a SCIM client that can provision users and group
 * App c
 
 ## IDM Works
+
+## Description
+We Are Experts In Identity & Access Management and Data Center Management.
+
 ### Contact information
 * Company website: www.advania.se
 * Company contact: iam@advania.se
 
 ### Applications supported
 10 apps listed below for reference. Catalog contains 200+ 
-* App a 
-* App b
-* App c
+* SAP ECC Advanced Adapter
+* IBM Tivoli
+* FHIR Healthcare Advanced Adapter
 
 
 ## OCG
@@ -47,16 +51,7 @@ Azure Active Directory provides a SCIM client that can provision users and group
 
 ### Applications supported
 10 apps listed below for reference. Catalog contains 200+ 
-* App a 
-* App b
-* App c
-
-
-# Avanade
-### Description
-## Contact information
-* Company website: www.advania.se
-* Company contact: iam@advania.se
-
-## Applications supported
+* Firebird 
+* Informix
+* Ingres 
 
