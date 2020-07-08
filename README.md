@@ -1,9 +1,14 @@
 # Azure Active Directory Partner Driven Integrations
 
-Azure Active Directory supports provisioning to any application that a customer may have. 
-**Lin-of-business applications:**
-Azure Active Directory provides a [SCIM](https://aka.ms/scimoverview) client that provisions users and groups into applications such as Dropbox, Snowflake, and Workplace by Facebook. SCIM compliant applications can easily be onboared to the applicatio gallery and deployed by customers using the steps defined [here](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
+Azure Active Directory supports provisioning to any application that a customer may have. There are three primary methods for integration.
 
+**Line-of-business applications (SCIM compliant):**
+For applications built for use within your organization, Azure Active Directory provides a [SCIM](https://aka.ms/scimoverview) client that provisions users and groups.
+
+**3rd Party integrations / gallery applications:**
+ For 3rd party applications commonly used by our customers, the Azure AD provides easy to onboard templates to integrate with the applications. Examples include Dropbox, Snowflake, and Workplace by Facebook. SCIM compliant applications can easily be onboared to the application gallery and deployed by customers using the steps defined [here](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
+
+**Partner-driven integrations:**
 In cases where an application does not support SCIM, several partners have built gateways between the Azure AD SCIM client and target applications such as SAP, SQL, and LDAP. This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these integration options.  
 
 # Disclaimer
@@ -22,14 +27,14 @@ In cases where an application does not support SCIM, several partners have built
 ### Description
 The Aquera Identity Integration Platform as a Service closes the connectivity gaps for real-time identity governance and lifecycle management workflows. The platform offers SCIM gateway services for account provisioning and aggregation, orchestration services for user and password synchronization, and workflow services for the governance of disconnected applications.
 ### Contact information
-* Company website: www.advania.se
-* Company contact: iam@advania.se
+* Company website: https://www.aquera.com/applications.html
+* Company contact: https://www.aquera.com/contact-us.html
 
 ### Applications supported
-10 apps listed below for reference. Catalog contains 200+ 
-* App a 
-* App b
-* App c
+3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
+* ADP
+* Balsamiq
+* Calendly
 
 ## IDM Works
 Company website: [IdentityForge solutions for Microsoft FIM](http://identityforge.com/index.php/solutions/iamsolutions/solutions-for-fim-2010)
@@ -50,6 +55,8 @@ We Are Experts In Identity & Access Management and Data Center Management.
 
 ## OCG
 ### Description
+OCG ...
+
 ### Contact information
 * Company website: http: //oxfordcomputergroup.com/ Jump
 * Information: info@oxfordcomputergroup.com
