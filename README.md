@@ -15,6 +15,8 @@ Azure Active Directory provides a SCIM client that can provision users and group
 
 # Partners
 ## Aquera
+
+### Description
 ### Contact information
 * Company website: www.advania.se
 * Company contact: iam@advania.se
@@ -38,6 +40,7 @@ Azure Active Directory provides a SCIM client that can provision users and group
 
 
 ## OCG
+### Description
 ### Contact information
 * Company website: www.advania.se
 * Company contact: iam@advania.se
@@ -50,6 +53,7 @@ Azure Active Directory provides a SCIM client that can provision users and group
 
 
 # Avanade
+### Description
 ## Contact information
 * Company website: www.advania.se
 * Company contact: iam@advania.se
