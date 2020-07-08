@@ -28,6 +28,7 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 * App c
 
 ## IDM Works
+Company website: [IdentityForge solutions for Microsoft FIM](http://identityforge.com/index.php/solutions/iamsolutions/solutions-for-fim-2010)
 
 ## Description
 We Are Experts In Identity & Access Management and Data Center Management.
@@ -46,8 +47,8 @@ We Are Experts In Identity & Access Management and Data Center Management.
 ## OCG
 ### Description
 ### Contact information
-* Company website: www.advania.se
-* Company contact: iam@advania.se
+* Company website: http: //oxfordcomputergroup.com/ Jump
+* Information: info@oxfordcomputergroup.com
 
 ### Applications supported
 10 apps listed below for reference. Catalog contains 200+ 
