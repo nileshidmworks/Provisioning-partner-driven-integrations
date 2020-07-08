@@ -1,6 +1,8 @@
 # Azure Active Directory Partner Driven Integrations
 
-Azure Active Directory provides a SCIM client that can provision users and groups into various applications such as Dropbox, Snowflake, and Workplace by Facebook. Several partners have built integrations on top of the Azure AD provisioning service that provide connectivity to applications that do not support the SCIM standard (e.g. SAP, SQL, LDAP, etc.). This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory and for customers to discover these additional integration options.  
+Azure Active Directory provides a [SCIM](https://aka.ms/scimoverview) client that provisions users and groups into applications such as Dropbox, Snowflake, and Workplace by Facebook. SCIM compliant applications can easily be onboared to the applicatio gallery and deployed by customers using the steps defined [here](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
+
+In cases where an application does not support SCIM, several partners have built gateways between the Azure AD SCIM client and target applications such as SAP, SQL, and LDAP. This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these integration options.  
 
 # Disclaimer
 <Legal text>
