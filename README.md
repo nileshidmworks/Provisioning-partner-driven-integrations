@@ -43,7 +43,6 @@ We Are Experts In Identity & Access Management and Data Center Management.
 * Application catalog: 
 
 ### Applications supported
-10 apps listed below for reference. Catalog contains 200+ 
 * SAP ECC Advanced Adapter
 * IBM Tivoli
 * FHIR Healthcare Advanced Adapter
