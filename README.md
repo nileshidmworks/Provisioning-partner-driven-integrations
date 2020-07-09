@@ -35,8 +35,7 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 * Calendly
 
 ## IDM Works
-
-## Description
+### Description
 We Are Experts In Identity & Access Management and Data Center Management.
 
 ### Contact information
