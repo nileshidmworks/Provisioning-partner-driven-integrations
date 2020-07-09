@@ -3,21 +3,18 @@
 Azure Active Directory can provision users into any application that a customer may have. There are three primary integration paths:
 
 **SCIM compliant line-of-business applications:**
-For applications built for use within your organization, Azure Active Directory provides a [SCIM](https://aka.ms/scimoverview) client that provisions users and groups.
+If your line-of-business application supports [SCIM](https://aka.ms/scimoverview), it can easily be integrated with the [Azure AD SCIM client](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups).
 
 **3rd Party integrations / gallery applications:**
- For 3rd party applications commonly used by our customers, the Azure AD provides easy to onboard templates to integrate with the applications. Examples include Dropbox, Snowflake, and Workplace by Facebook. SCIM compliant applications can easily be onboared to the application gallery and deployed by customers using the steps defined [here](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
+Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
 
 **Partner-driven integrations:**
-In cases where an application does not support SCIM, several partners have built gateways between the Azure AD SCIM client and target applications such as SAP, SQL, and LDAP. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these integration options.**
+In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations**
 
-# Disclaimer
-{Input Legal text once available}
-  
-# How-to add integrations to this list
+# How-to add partner-driven integrates to this document
 
-1. Review our [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
-2. Test SCIM compatibility using [on-demand provisioning](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) and the [postman test suite](https://github.com/AzureAD/SCIMReferenceCode/wiki/Test-Your-SCIM-Endpoint).
+1. Review the Azure AD SCIM [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
+2. Test compatibility between the Azure AD SCIM client and your SCIM gateway using [on-demand provisioning](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) and the [postman test suite](https://github.com/AzureAD/SCIMReferenceCode/wiki/Test-Your-SCIM-Endpoint).
 3. Test the integration with at least 3 cusotmers to ensure that it is working as expected.
 4. Click edit at the top of this page to create a pull request add your integration with this list.
 5. An admin of the repository will merge your changes so that others can view them.
@@ -68,3 +65,5 @@ OCG ...
 * Informix
 * Ingres 
 
+# Disclaimer
+{Input Legal text once available}
