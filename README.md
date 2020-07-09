@@ -1,4 +1,4 @@
-# Azure Active Directory Provisioning Partner Driven Integrations
+# Partner-driven provisioning integrations
 
 Azure Active Directory can provision users into any application that a customer may have. There are three primary integration paths:
 
@@ -8,7 +8,7 @@ If your line-of-business application supports [SCIM](https://aka.ms/scimoverview
 **3rd Party integrations / gallery applications:**
 Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
 
-**Browse available partner-driven integrations:**
+**Partner-driven provisioning integrations:**
 In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations**
 
 # How-to add partner-driven integrates to this document
