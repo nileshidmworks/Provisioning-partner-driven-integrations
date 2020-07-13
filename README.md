@@ -65,3 +65,12 @@ OCG ...
 
 # Disclaimer
 {Input Legal text once available}
+
+## gslab
+### Description
+OCG ...
+
+### Contact information
+* Company website: 
+* Information: https://www.gslab.com/downloads/Datasheet/xID-Datasheet-v7.pdf
+* Application catalog: 
