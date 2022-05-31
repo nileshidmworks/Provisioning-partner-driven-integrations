@@ -6,10 +6,10 @@ Azure Active Directory can provision users into any application that a customer 
 If your line-of-business application supports [SCIM](https://aka.ms/scimoverview), it can easily be integrated with the [Azure AD SCIM client](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups).
 
 **3rd Party integrations / gallery applications:**
-Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
+Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). These integrations have been tested by Microsoft.
 
 **Partner-driven provisioning integrations:**
-In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations**
+In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these
 
 # How-to add partner-driven integrates to this document
 
@@ -65,6 +65,8 @@ OCG ...
 
 # Disclaimer
 {Input Legal text once available}
+
+## UnifySolutions
 
 ## gslab
 ### Description
