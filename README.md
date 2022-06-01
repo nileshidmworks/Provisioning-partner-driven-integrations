@@ -31,7 +31,6 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 ### Contact information
 * Company website: https://www.aquera.com/applications.html
 * Company contact: https://www.aquera.com/contact-us.html
-* Application catalog: 
 
 ### Applications supported
 3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
@@ -45,7 +44,7 @@ We Are Experts In Identity & Access Management and Data Center Management.
 
 ### Contact information
 * Company website: [IdentityForge solutions for Microsoft FIM](http://identityforge.com/index.php/solutions/iamsolutions/solutions-for-fim-2010)
-* Application catalog: 
+* Company contact:
 
 ### Applications supported
 * SAP ECC Advanced Adapter
@@ -53,10 +52,13 @@ We Are Experts In Identity & Access Management and Data Center Management.
 * FHIR Healthcare Advanced Adapter
 
 ## UnifySolutions
+### Description
 
+### Contact information
+
+### Applications supported
 * Company website: https://unifysolutions.net/solutions/azure-ad-application-provisioning/
 * Contact information: 
-* Application catalog: 
 
 
 # Disclaimer
