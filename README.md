@@ -52,22 +52,6 @@ We Are Experts In Identity & Access Management and Data Center Management.
 * IBM Tivoli
 * FHIR Healthcare Advanced Adapter
 
-
-## OCG
-### Description
-OCG ...
-
-### Contact information
-* Company website: http: //oxfordcomputergroup.com/ Jump
-* Contact information: info@oxfordcomputergroup.com
-* Application catalog: 
-
-### Applications supported
-
-* Firebird 
-* Informix
-* Ingres 
-
 ## UnifySolutions
 
 * Company website: 
