@@ -41,7 +41,7 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 ### Applications supported
 3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
 * ADP
-* Balsamiq
+* Concur
 * Calendly
 
 ## IDM Works
