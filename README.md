@@ -1,6 +1,6 @@
 # Partner-driven provisioning integrations
 
-The Azure Active Directory Provisioning service allows you to provision users and groups into both SaaS and on-premises applications. There are three primary integration paths:
+The Azure Active Directory Provisioning service allows you to provision users and groups into both [SaaS](https://docs.microsoft.com/azure/active-directory/app-provisioning/user-provisioning) and [on-premises](https://docs.microsoft.com/azure/active-directory/app-provisioning/on-premises-scim-provisioning) applications. There are three primary integration paths:
 
 **3rd Party integrations / gallery applications:**
 Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
