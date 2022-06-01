@@ -11,8 +11,8 @@ If your line-of-business application supports the [SCIM](https://aka.ms/scimover
 **Option 3 - Leverage the Microsoft Graph:**
 Many new applications use [Microsoft Graph](https://docs.microsoft.com/graph/overview) to retrieve [users](https://docs.microsoft.com/graph/api/resources/user?view=graph-rest-1.0), groups and other resources from Azure Active Directory. You can learn more about what scenarios to use [SCIM and Graph](https://docs.microsoft.com/azure/active-directory/app-provisioning/scim-graph-scenarios) in. 
 
-**Option 4 - Leverage a connector developed by a partner:**
-In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications.  **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these gateways are built, maintained, and owned by the third-party vendor. 
+**Option 4 - Leverage partner-driven connectors:**
+In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these gateways are built, maintained, and owned by the third-party vendor. 
 
 # How-to add partner-driven integrations to this document
 
