@@ -9,7 +9,7 @@ If your line-of-business application supports [SCIM](https://aka.ms/scimoverview
 Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). These integrations have been tested by Microsoft.
 
 **Partner-driven provisioning integrations:**
-In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these
+In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these gateways are built, maintained, and owned by the third-party vendor. 
 
 # How-to add partner-driven integrates to this document
 
@@ -18,6 +18,11 @@ In cases where an application does not support SCIM, partners have built gateway
 3. Test the integration with at least 3 cusotmers to ensure that it is working as expected.
 4. Click edit at the top of this page to create a pull request add your integration with this list.
 5. An admin of the repository will merge your changes so that others can view them.
+
+## Guidelines
+* Add any new partners in alphabetical order.
+* Limit your entries to 500 words.
+* Ensure that you provide contact information for customers to learn more.
 
 # Available partner-driven integrations
 ## Aquera
