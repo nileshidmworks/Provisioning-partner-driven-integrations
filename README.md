@@ -30,7 +30,7 @@ In cases where an application does not support SCIM, partners have built gateway
 The Aquera Identity Integration Platform as a Service closes the connectivity gaps for real-time identity governance and lifecycle management workflows. The platform offers SCIM gateway services for account provisioning and aggregation, orchestration services for user and password synchronization, and workflow services for the governance of disconnected applications.
 ### Contact information
 * Company website: https://www.aquera.com/applications.html
-* Company contact: https://www.aquera.com/contact-us.html
+* Contact information: https://www.aquera.com/contact-us.html
 
 ### Applications supported
 3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
@@ -44,7 +44,7 @@ We Are Experts In Identity & Access Management and Data Center Management.
 
 ### Contact information
 * Company website: [IdentityForge solutions for Microsoft FIM](http://identityforge.com/index.php/solutions/iamsolutions/solutions-for-fim-2010)
-* Company contact:
+* Contact information: 
 
 ### Applications supported
 * SAP ECC Advanced Adapter
