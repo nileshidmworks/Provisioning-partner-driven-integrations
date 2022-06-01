@@ -14,10 +14,9 @@ In cases where an application does not support SCIM, partners have built gateway
 # How-to add partner-driven integrations to this document
 
 1. Review the Azure AD SCIM [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
-2. Test compatibility between the Azure AD SCIM client and your SCIM gateway using [on-demand provisioning](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) and the [postman test suite](https://github.com/AzureAD/SCIMReferenceCode/wiki/Test-Your-SCIM-Endpoint).
-3. Test the integration with at least 3 cusotmers to ensure that it is working as expected.
-4. Click edit at the top of this page to create a pull request add your integration with this list.
-5. An admin of the repository will merge your changes so that others can view them.
+1. Test compatibility between the Azure AD SCIM client and your SCIM gateway.
+1. Click edit at the top of this page to create a pull request add your integration with this list.
+1. An admin of the repository will merge your changes so that others can view them.
 
 ## Guidelines
 * Add any new partners in alphabetical order.
