@@ -59,7 +59,7 @@ OCG ...
 
 ### Contact information
 * Company website: http: //oxfordcomputergroup.com/ Jump
-* Information: info@oxfordcomputergroup.com
+* Contact information: info@oxfordcomputergroup.com
 * Application catalog: 
 
 ### Applications supported
@@ -68,16 +68,12 @@ OCG ...
 * Informix
 * Ingres 
 
-# Disclaimer
-{Input Legal text once available}
-
 ## UnifySolutions
 
-## gslab
-### Description
-OCG ...
-
-### Contact information
 * Company website: 
-* Information: https://www.gslab.com/downloads/Datasheet/xID-Datasheet-v7.pdf
+* Contact information: https://www.gslab.com/downloads/Datasheet/xID-Datasheet-v7.pdf
 * Application catalog: 
+
+
+# Disclaimer
+{Input Legal text once available}
