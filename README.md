@@ -16,7 +16,7 @@ Many new applications use [Microsoft Graph](https://docs.microsoft.com/graph/ove
 **Option 4 - Leverage partner-driven connectors:**
 In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications. **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these gateways are built, maintained, and owned by the third-party vendor. 
 
-<img width="372" alt="image" src="https://user-images.githubusercontent.com/36525136/171483617-2da62d04-c5a8-4885-96c3-c0c31ab9241e.png">
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/36525136/171483811-4932fc82-a4ba-44e8-942d-de71b1312d76.png">
 
 # How-to add partner-driven integrations to this document
 
