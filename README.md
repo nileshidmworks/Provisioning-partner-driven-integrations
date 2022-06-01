@@ -2,13 +2,13 @@
 
 The Azure Active Directory Provisioning service allows you to provision users and groups into both [SaaS](https://docs.microsoft.com/azure/active-directory/app-provisioning/user-provisioning) and [on-premises](https://docs.microsoft.com/azure/active-directory/app-provisioning/on-premises-scim-provisioning) applications. There are three primary integration paths:
 
-**3rd Party integrations / gallery applications:**
+**Option 1 - Azure AD Application Gallery:**
 Popular 3rd party applications, such as Dropbox, Snowflake, and Workplace by Facebook, are made available for customers through the Azure AD application gallery. New applications can easily be onboaded to the gallery using the [application network portal](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-app-gallery-listing). 
 
-**SCIM compliant line-of-business applications:**
+**Option 2 - Implement a SCIM compliant API for your application:**
 If your line-of-business application supports the [SCIM](https://aka.ms/scimoverview) standard, it can easily be integrated with the [Azure AD SCIM client](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups).
 
-**Partner-driven provisioning integrations:**
+**Option 3 - Leverage a connector developed by a partner:**
 In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications.  **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these gateways are built, maintained, and owned by the third-party vendor. 
 
 # How-to add partner-driven integrates to this document
