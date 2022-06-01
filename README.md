@@ -54,8 +54,8 @@ We Are Experts In Identity & Access Management and Data Center Management.
 
 ## UnifySolutions
 
-* Company website: 
-* Contact information: https://www.gslab.com/downloads/Datasheet/xID-Datasheet-v7.pdf
+* Company website: https://unifysolutions.net/solutions/azure-ad-application-provisioning/
+* Contact information: 
 * Application catalog: 
 
 
