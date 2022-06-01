@@ -11,7 +11,7 @@ If your line-of-business application supports the [SCIM](https://aka.ms/scimover
 **Option 3 - Leverage a connector developed by a partner:**
 In cases where an application does not support SCIM, partners have built gateways between the Azure AD SCIM client and target applications.  **This document serves as a place for partners to attest to integrations that are compatible with Azure Active Directory, and for customers to discover these partner-driven integrations.** Note that these gateways are built, maintained, and owned by the third-party vendor. 
 
-# How-to add partner-driven integrates to this document
+# How-to add partner-driven integrations to this document
 
 1. Review the Azure AD SCIM [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
 2. Test compatibility between the Azure AD SCIM client and your SCIM gateway using [on-demand provisioning](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) and the [postman test suite](https://github.com/AzureAD/SCIMReferenceCode/wiki/Test-Your-SCIM-Endpoint).
