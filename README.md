@@ -10,7 +10,7 @@ If your line-of-business application supports the [SCIM](https://aka.ms/scimover
 
 <img width="316" alt="image" src="https://user-images.githubusercontent.com/36525136/171483159-9470f922-4b89-4ebf-8962-bd05a72f87be.png">
 
-**Option 3 - Leverage the Microsoft Graph:**
+**Option 3 - Leverage Microsoft Graph:**
 Many new applications use [Microsoft Graph](https://docs.microsoft.com/graph/overview) to retrieve [users](https://docs.microsoft.com/graph/api/resources/user?view=graph-rest-1.0), groups and other resources from Azure Active Directory. You can learn more about what scenarios to use [SCIM and Graph](https://docs.microsoft.com/azure/active-directory/app-provisioning/scim-graph-scenarios) in. 
 
 **Option 4 - Leverage partner-driven connectors:**
