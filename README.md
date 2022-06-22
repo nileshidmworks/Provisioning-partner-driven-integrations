@@ -57,6 +57,7 @@ We Are Experts In Identity & Access Management and Data Center Management.
 
 
 # How-to add partner-driven integrations to this document
+If you have built a SCIM Gateway and would like to add it to this list, please follow the steps below. 
 
 1. Review the Azure AD SCIM [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
 1. Test compatibility between the Azure AD SCIM client and your SCIM gateway.
