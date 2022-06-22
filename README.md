@@ -18,20 +18,6 @@ In cases where an application does not support SCIM, partners have built gateway
 
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/36525136/171484637-acc3436c-d99e-4ab4-8ae5-d0eeb07bb650.png">
 
-# How-to add partner-driven integrations to this document
-
-1. Review the Azure AD SCIM [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
-1. Test compatibility between the Azure AD SCIM client and your SCIM gateway.
-1. Click the pencil at the top of this document to edit the article
-1. Once you are redirected to Github, click the pencil at the top of the article to start making changes
-1. Make changes in the article using the Markdown language and create a pull request. Make sure to provide a description for the pull request.  
-1. An admin of the repository will review and merge your changes so that others can view them.
-
-## Guidelines
-* Add any new partners in alphabetical order.
-* Limit your entries to 500 words.
-* Ensure that you provide contact information for customers to learn more.
-
 # Available partner-driven integrations
 ## Aquera
 ### Description
@@ -70,6 +56,19 @@ We Are Experts In Identity & Access Management and Data Center Management.
 ### Applications supported
 
 
+# How-to add partner-driven integrations to this document
+
+1. Review the Azure AD SCIM [documentation](https://docs.microsoft.com/azure/active-directory/app-provisioning/use-scim-to-provision-users-and-groups) to understand the Azure AD SCIM implementation.
+1. Test compatibility between the Azure AD SCIM client and your SCIM gateway.
+1. Click the pencil at the top of this document to edit the article
+1. Once you are redirected to Github, click the pencil at the top of the article to start making changes
+1. Make changes in the article using the Markdown language and create a pull request. Make sure to provide a description for the pull request.  
+1. An admin of the repository will review and merge your changes so that others can view them.
+
+## Guidelines
+* Add any new partners in alphabetical order.
+* Limit your entries to 500 words.
+* Ensure that you provide contact information for customers to learn more.
 
 # Disclaimer
 {Input Legal text once available}
