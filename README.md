@@ -45,16 +45,22 @@ We Are Experts In Identity & Access Management and Data Center Management.
 * Epic
 * RACF
 
-## UnifySolutions
+## UNIFY Solutions
 ### Description
 
-### Contact information
-* Company website: https://unifysolutions.net/solutions/azure-ad-application-provisioning/
-* Contact information: 
+UNIFY Solutions is the leading provider of Identity, Access, Security and Governance solutions.
 
+### Contact information
+* Company website: https://unifysolutions.net/identity/unifyconnect
+* Contact information: https://unifysolutions.net/contact/
 
 ### Applications supported
-
+* Aurion People & Payroll
+* Frontier Software chris21
+* TechnologyOne HR
+* Ascender HCM
+* Fusion5 EmpowerHR
+* SAP ERP Human Capital Management
 
 # How-to add partner-driven integrations to this document
 If you have built a SCIM Gateway and would like to add it to this list, please follow the steps below. 
