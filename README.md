@@ -78,4 +78,8 @@ If you have built a SCIM Gateway and would like to add it to this list, please f
 * Ensure that you provide contact information for customers to learn more.
 
 # Disclaimer
-{Input Legal text once available}
+For independent software vendors: The Microsoft Azure Active Directory Application Gallery Terms & Conditions, excluding Sections 2–4, apply to this Partner-Driven Integrations Catalog (https://aka.ms/PartnerDrivenProvisioning, the “Integrations Catalog”). References to the “Gallery” shall be read as the “Integrations Catalog” and references to an “App” shall be read as “Integration”.  
+
+If you do not agree with these terms, you should not submit your Integration for listing in the Integrations Catalog. If you submit an Integration to the Integrations Catalog, you agree that you or the entity you represent (“YOU” or “YOUR”) is bound by these terms. 
+ 
+Microsoft reserves the right to accept or reject your proposed Integration in its sole discretion and reserves the right to determine the manner in which Apps are presented, promoted, or featured in this Integrations Catalog. 
