@@ -32,32 +32,29 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 * Concur
 * Calendly
 
-## IDM Works
+## IDMWORKS
 ### Description
-The Azure AD platform is integrated with IDMWORKS IdentityForge (IDF) Gateway for user life cycle management for Mainframe systems (RACF, Top Secret, ACF2), Midrange system (AS400), Healthcare applications (EPIC/Cerner), Linux/Unix servers, Databases, and dozens of on-prem and cloud applications. IdentityForge provides a central, standardized integration engine and modern identity store that serves as a trusted source for all life-cycle management.
+The Azure AD platform is integrated with IDMWORKS IdentityForge (IDF) Gateway for user lifecycle management for Mainframe systems (RACF, Top Secret, ACF2), Midrange system (AS400), Healthcare applications (EPIC/Cerner), Linux/Unix servers, Databases, and dozens of on-prem and cloud applications. IdentityForge provides a central, standardized integration engine and modern identity store that serves as a trusted source for all lifecycle management.
 The IDF Gateway for Azure AD provides lifecycle management for import sources and provisioning target systems that are not covered by the Azure AD connector portfolio like Mainframe systems (RACF, Top Secret, ACF2) or Healthcare applications (EPIC/Cerner). The IDF Gateway powers Azure AD identity lifecycle management (LCM) to continuously synchronize user account information from Mainframe/Healthcare sources and to automate the account provisioning lifecycle use cases like create, read (import), update, deactivate, delete user accounts and perform group management.
 
 ### Contact information
-* Company website: https://www.idmworks.com/
+* Company website: https://www.idmworks.com/identity-forge
 * Contact information: https://www.idmworks.com/contacts/
 
 
-### Applications supported
+### Popular Applications supported
+
+Leading provider of Mainframe, Healthcare and ERP integrations.  More can be found at https://www.idmworks.com/identity-forge/
+
+* IBM RACF
+* CA Top Secret
+* CA ACF2
+* IBM i (AS/400)
+* HP NonStop
+* EPIC
 * Cerner
-* Epic
-* RACF
-* Top Secret
-* ACF2
-* AWS
-* AS/400 (IBMi)
-* HP Non stop
-* Technology apps
-*    x3270
-*    SSH
-*    Database
-* Google Apps
-* Salesforce
-* Service Now
+* SAP ECC
+
 
 ## UNIFY Solutions
 ### Description
